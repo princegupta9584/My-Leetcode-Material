@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
