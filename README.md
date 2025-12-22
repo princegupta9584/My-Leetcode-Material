@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
@@ -88,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
