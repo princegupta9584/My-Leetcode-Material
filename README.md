@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
