@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,5 +128,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
