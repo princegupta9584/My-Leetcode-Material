@@ -1,3 +1,4 @@
+ //kunal khushwaha linear search
 class Solution {
     public int findNumbers(int[] nums) {
         int count=0;
