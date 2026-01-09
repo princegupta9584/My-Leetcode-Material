@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
+| [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
