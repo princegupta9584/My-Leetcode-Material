@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 ## Database
 |  |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
