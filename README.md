@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0796-rotate-string) |
