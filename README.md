@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
