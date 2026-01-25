@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
