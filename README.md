@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
