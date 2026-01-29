@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
