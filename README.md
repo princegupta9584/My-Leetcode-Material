@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3033-modify-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
