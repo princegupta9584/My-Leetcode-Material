@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## String Matching
 |  |
