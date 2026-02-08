@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1295-find-numbers-with-even-number-of-digits) |
