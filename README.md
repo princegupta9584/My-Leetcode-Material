@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1773-count-items-matching-a-rule) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [1678-goal-parser-interpretation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1796-second-largest-digit-in-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Hash Table
