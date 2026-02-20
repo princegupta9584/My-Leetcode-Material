@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1796-second-largest-digit-in-a-string) |
+| [1859-sorting-the-sentence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Hash Table
 |  |
