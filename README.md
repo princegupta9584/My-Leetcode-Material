@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1678-goal-parser-interpretation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1773-count-items-matching-a-rule) |
