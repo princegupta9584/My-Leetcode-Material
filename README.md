@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
