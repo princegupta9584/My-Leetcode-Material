@@ -2,20 +2,20 @@ import java.util.Arrays;
 
 class Solution {
     public int specialArray(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        
-        for(int i = 0; i < n; i++) {
-            int x = n - i;
-            
-            if(nums[i] >= x && (i == 0 || nums[i - 1] < x)) {
-                return x;
-            }
-        }
-        
-        return -1;
+        //optimized 
 
-        
+        // Arrays.sort(nums);
+        // int n = nums.length;
+        // for(int i = 0; i < n; i++) {
+        //     int x = n - i;
+        //     if(nums[i] >= x && (i == 0 || nums[i - 1] < x)) {
+        //         return x;
+        //     }
+        // }
+        // return -1;
+
+        //Brute force 
+
         // int n = nums.length;
         // for (int x = 1; x <= n; x++) {
         //     int count = 0;
@@ -29,5 +29,18 @@ class Solution {
         //     }
         // }
         // return -1;
+
+        for(int i=1;i<=nums.length;i++){
+            int count =0;
+            for(int j=0;j<nums.length;j++){
+                if(i<=nums[j]){
+                    count++;
+                }
+            }
+            if(count == i){
+                return i;
+            }
+        }
+        return -1;
     }
 }
