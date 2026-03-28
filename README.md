@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0680-valid-palindrome-ii) |
