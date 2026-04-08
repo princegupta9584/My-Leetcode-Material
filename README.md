@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1757-recyclable-and-low-fat-products) |
 ## Matrix
