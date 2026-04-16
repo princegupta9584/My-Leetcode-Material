@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
