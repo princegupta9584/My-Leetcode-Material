@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
