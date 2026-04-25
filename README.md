@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0064-minimum-path-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0070-climbing-stairs) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Interactive
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Brainteaser
 |  |
