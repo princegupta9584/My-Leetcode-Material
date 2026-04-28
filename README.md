@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1668-maximum-repeating-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1796-second-largest-digit-in-a-string) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
