@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0930-binary-subarrays-with-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0977-squares-of-a-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0930-binary-subarrays-with-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1732-find-the-highest-altitude) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
