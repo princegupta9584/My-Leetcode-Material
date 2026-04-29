@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0796-rotate-string) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
