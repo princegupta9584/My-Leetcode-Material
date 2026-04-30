@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
