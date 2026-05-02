@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1796-second-largest-digit-in-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0342-power-of-four) |
+| [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0204-count-primes) |
+| [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
