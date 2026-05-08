@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -444,5 +448,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
