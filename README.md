@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
@@ -437,4 +439,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
