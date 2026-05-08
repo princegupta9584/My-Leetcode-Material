@@ -428,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0052-n-queens-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
