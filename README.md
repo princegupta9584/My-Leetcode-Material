@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Interactive
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
