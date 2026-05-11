@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
