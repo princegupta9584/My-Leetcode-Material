@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2094-finding-3-digit-even-numbers) |
+| [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
 ## Math
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Database
 |  |
