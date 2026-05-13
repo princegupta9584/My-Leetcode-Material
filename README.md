@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0084-largest-rectangle-in-histogram) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Brainteaser
 |  |
