@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-maximum-repeating-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 ## Interactive
 |  |
