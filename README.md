@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## String
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Hash Table
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Interactive
 |  |
 | ------- |
