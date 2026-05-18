@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0083-remove-duplicates-from-sorted-list) |
