@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0033-search-in-rotated-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0042-trapping-rain-water) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0229-majority-element-ii) |
