@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3033-modify-the-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
