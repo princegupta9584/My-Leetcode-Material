@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1757-recyclable-and-low-fat-products) |
 ## Matrix
 |  |
