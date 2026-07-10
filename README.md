@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1914-cyclically-rotating-a-grid) |
