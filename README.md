@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3033-modify-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3033-modify-the-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2574-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
