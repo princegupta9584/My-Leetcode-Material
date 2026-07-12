@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
