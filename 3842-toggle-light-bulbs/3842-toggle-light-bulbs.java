@@ -1,14 +1,18 @@
 class Solution {
     public List<Integer> toggleLightBulbs(List<Integer> bulbs) {
-        HashSet<Integer> temp = new HashSet<>();
+        HashSet<Integer> set = new HashSet<>();
 
         for (int bulb : bulbs) {
-            if (temp.contains(bulb))
-                temp.remove(bulb);
-            else
-                temp.add(bulb);
+            if (set.contains(bulb)) {
+                set.remove(bulb);
+            } else {
+                set.add(bulb);
+            }
         }
 
-        return new ArrayList<>(new TreeSet<>(temp));
+        ArrayList<Integer> ans = new ArrayList<>(set);
+        Collections.sort(ans);
+
+        return ans;
     }
 }
