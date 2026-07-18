@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3523-make-array-non-decreasing) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2126-destroying-asteroids) |
 | [3536-maximum-product-of-two-digits](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3612-process-string-with-special-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
