@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
+| [3861-minimum-capacity-box](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3861-minimum-capacity-box) |
 ## Two Pointers
 |  |
 | ------- |
