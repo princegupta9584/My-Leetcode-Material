@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
