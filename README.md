@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0204-count-primes) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0160-intersection-of-two-linked-lists) |
@@ -598,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
