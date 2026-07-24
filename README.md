@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0817-linked-list-components](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
+| [0817-linked-list-components](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0930-binary-subarrays-with-sum) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1721-swapping-nodes-in-a-linked-list) |
