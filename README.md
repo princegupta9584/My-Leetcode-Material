@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0443-string-compression) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0806-number-of-lines-to-write-string) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
