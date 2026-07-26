@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0888-fair-candy-swap) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princegupta9584/My-Leetcode-Material/tree/master/1232-check-if-it-is-a-straight-line) |
